@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Routine"
+category: Routine
+---
+
+<h2>Routine</h2>
+
+<ul>
+  {% for post in site.categories.Routine %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>({{ post.date | date: "%d/%m/%Y" }})</small>
+    </li>
+  {% else %}
+    <p>Ancora nessun articolo in questa categoria.</p>
+  {% endfor %}
+</ul>

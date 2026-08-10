@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Home"
+---
+
+<section class="latest-news-section">
+  <h2 class="section-title">Latest News</h2>
+
+  <div class="posts-grid">
+    {% for post in site.posts %}
+      <article class="post-card">
+        
+        <!-- Foto principale del post -->
+        <a href="{{ post.url | relative_url }}" class="post-card-image-wrapper">
+          {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-image">
+          {% else %}
+            <!-- Placeholder scuro se il post non ha un'immagine -->
+            <div class="post-card-placeholder"></div>
+          {% endif %}
+        </a>
+
+        <!-- Informazioni sul post -->
+        <div class="post-card-content">
+          {% if post.category %}
+            <span class="post-card-category">{{ post.category }}</span>
+          {% endif %}
+          <h3 class="post-card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          <p class="post-card-date">{{ post.date | date: "%d/%m/%Y" }}</p>
+        </div>
+
+      </article>
+    {% else %}
+      <p>Nessun articolo pubblicato finora.</p>
+    {% endfor %}
+  </div>
+</section>

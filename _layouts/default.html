@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title | default: "The Dark Baby Angel" }}{% endif %}</title>
+  
+  <!-- Foglio di stile principale -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% feed_meta %}
+  {% seo %}
+</head>
+
+{% assign current_category = page.category | default: page.categories.first %}
+{% if current_category %}
+  {% assign category_slug = current_category | slugify %}
+  {% assign theme_class = "theme-" | append: category_slug %}
+{% else %}
+  {% assign theme_class = "theme-home" %}
+{% endif %}
+
+<body class="{{ theme_class }}">
+
+  <!-- =========================================
+       1. MARGINI DECORATIVI AGLI ANGOLI DELLO SCHERMO
+       ========================================= -->
+  <div class="decor-margine1" aria-hidden="true"></div>
+  <div class="decor-margine2" aria-hidden="true"></div>
+  <div class="decor-margine3" aria-hidden="true"></div>
+
+  <!-- =========================================
+       2. DECORAZIONI DI CATEGORIA (IN BASSO A DESTRA)
+       ========================================= -->
+  <div class="decor-home decor-luna" aria-hidden="true"></div>
+  <div class="decor-recipes decor-libri" aria-hidden="true"></div>
+  <div class="decor-witches decor-magia1" aria-hidden="true"></div>
+  <div class="decor-routine decor-ventaglio" aria-hidden="true"></div>
+  <div class="decor-tv-and-movies decor-tv" aria-hidden="true"></div>
+  <div class="decor-holidays decor-finestra" aria-hidden="true"></div>
+  <div class="decor-diary decor-lettera2" aria-hidden="true"></div>
+
+  <!-- =========================================
+       3. HEADER & NAVIGAZIONE
+       ========================================= -->
+  <header class="site-header">
+    <h1>
+      <a href="{{ '/' | relative_url }}">The Dark Baby Angel</a>
+    </h1>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/recipes/' | relative_url }}">Recipes</a>
+      <a href="{{ '/witches/' | relative_url }}">Witches</a>
+      <a href="{{ '/routine/' | relative_url }}">Routine</a>
+      <a href="{{ '/tv-and-movies/' | relative_url }}">TV & Movies</a>
+      <a href="{{ '/holidays/' | relative_url }}">Holidays</a>
+      <a href="{{ '/diary/' | relative_url }}">Diary</a>
+    </nav>
+  </header>
+
+  <!-- =========================================
+       4. CONTENUTO PRINCIPALE DELL'ARTICOLO / PAGINA
+       ========================================= -->
+  <main>
+    {{ content }}
+  </main>
+
+</body>
+</html>

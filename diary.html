@@ -1,0 +1,26 @@
+---
+layout: default
+title: Diary
+---
+
+<body class="theme-diary">
+
+<section class="category-header">
+  <h2>Diary</h2>
+</section>
+
+<div class="posts-grid">
+  {% for post in site.categories.diary %}
+    <article class="post-card">
+      <div class="post-card-content">
+        <span class="post-card-category">Diary</span>
+        <h3 class="post-card-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <span class="post-card-date">{{ post.date | date: "%d/%m/%Y" }}</span>
+      </div>
+    </article>
+  {% else %}
+    <p>Nessun post presente in questa categoria al momento.</p>
+  {% endfor %}
+</div>
