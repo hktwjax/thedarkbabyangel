@@ -4,6 +4,8 @@ description: >-
   Un piccolo rifugio di pensieri, atmosfere d'ombra e luce, ricette confortanti e piccoli rituali quotidiani.
 baseurl: ""
 url: "https://www.thedarkbabyangel.net"
+permalink: pretty
+
 twitter_username: jekyllrb
 github_username: jekyll
 
