@@ -3,7 +3,7 @@
 layout: post 
 title: "Il sapore della calma"
 date: 2026-08-14
-category: recipes 
+category: Recipes 
 
 ---
 
