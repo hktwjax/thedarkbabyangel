@@ -1,30 +1,34 @@
 ---
-layout: page
+layout: default
 title: "Routine"
 permalink: /routine/
+category: routine
 ---
 
-<h2>Routine</h2>
+<h2 class="section-title">Routine</h2>
 
-<div class="routine-list">
+<div class="posts-grid">
   {% for post in site.categories.routine %}
-    <div class="post-box" style="border: 1px solid rgba(255,255,255,0.12); background: rgba(25, 20, 20, 0.6); border-radius: 10px; overflow: hidden; margin-bottom: 24px; max-width: 380px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <article class="post-card">
       
-      {% if post.image %}
-        <div class="post-image" style="width: 100%; height: 180px; overflow: hidden;">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-        </div>
-      {% endif %}
+      <!-- Immagine (se presente) o placeholder -->
+      <a href="{{ post.url | relative_url }}" class="post-card-image-wrapper">
+        {% if post.image %}
+          <img src="{{ post.image | relative_url }}" class="post-card-image" alt="{{ post.title }}">
+        {% else %}
+          <div class="post-card-placeholder"></div>
+        {% endif %}
+      </a>
 
-      <div style="padding: 18px 20px;">
-        <small style="text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1.5px; opacity: 0.6; display: block; margin-bottom: 6px;">Routine</small>
-        <h3 style="margin: 0 0 10px 0; font-size: 1.25rem; font-weight: 500; line-height: 1.4;">
-          <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a>
+      <div class="post-content">
+        <span class="post-card-category">Routine</span>
+        <h3 class="post-card-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h3>
-        <small style="opacity: 0.5; font-size: 0.85rem;">{{ post.date | date: "%d/%m/%Y" }}</small>
+        <span class="post-card-date">{{ post.date | date: "%d/%m/%Y" }}</span>
       </div>
-
-    </div>
+      
+    </article>
   {% else %}
     <p>Ancora nessun articolo in questa categoria.</p>
   {% endfor %}
