@@ -4,16 +4,27 @@ title: "Recipes"
 category: Recipes
 permalink: /recipes/
 ---
+---
+layout: default
+title: "Recipes"
+category: Recipes
+permalink: /recipes/
+---
 
 <h2>Recipes</h2>
 
-<ul>
+<div class="recipes-list">
   {% for post in site.categories.Recipes %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>({{ post.date | date: "%d/%m/%Y" }})</small>
-    </li>
+    <div class="post-box" style="border: 1px solid rgba(255,255,255,0.15); background: rgba(0,0,0,0.2); padding: 24px; margin-bottom: 20px; border-radius: 10px;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none;">{{ post.title }}</a>
+      </h3>
+      <small style="opacity: 0.8;">{{ post.date | date: "%d/%m/%Y" }}</small>
+      {% if post.excerpt %}
+        <p style="margin-top: 12px; margin-bottom: 0;">{{ post.excerpt }}</p>
+      {% endif %}
+    </div>
   {% else %}
     <p>Ancora nessun articolo in questa categoria.</p>
   {% endfor %}
-</ul>
+</div>
