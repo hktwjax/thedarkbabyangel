@@ -1,16 +1,15 @@
 ---
 layout: default
-title: "Recipes"
-category: Recipes
-permalink: /recipes/
+title: "Routine"
+permalink: /routine/
 ---
 
-<h2>Recipes</h2>
+<h2>Routine</h2>
 
-<div class="recipes-list">
-  {% for post in site.categories.Recipes %}
+<div class="routine-list">
+  {% for post in site.categories.routine %}
     <div class="post-box" style="border: 1px solid rgba(255,255,255,0.12); background: rgba(25, 20, 20, 0.5); padding: 14px 18px; margin-bottom: 20px; border-radius: 8px; max-width: 350px;">
-      <small style="text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1.5px; opacity: 0.6; display: block; margin-bottom: 4px;">Recipes</small>
+      <small style="text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1.5px; opacity: 0.6; display: block; margin-bottom: 4px;">Routine</small>
       <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; font-weight: normal;">
         <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a>
       </h3>
