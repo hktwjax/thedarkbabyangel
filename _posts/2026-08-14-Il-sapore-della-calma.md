@@ -12,8 +12,8 @@ A me piace molto cucinare e rendere le ricette mie. Infatti in questa rubrica tr
 Qui tutti possono prendersi i propri tempi. 
 Troverete un appuntamento fisso a settimana, ma ogni tanto ci sarà anche una coccola in più. Una ricetta di quelle nate con calma, provate e riprovate nella mia cucina, pronte a regalarvi una piccola coccola inaspettata.
 
-Sono felice di condividere le mie ricette con voi e spero vi piacciano ☺️
+Sono felice di condividere le mie ricette con voi e spero vi piacciano.
 
 Buone ricette! 
 
-The Dark Baby Angel
+The Dark Baby Angel 🪽
