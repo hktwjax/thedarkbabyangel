@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Routine"
+title: Routine
+category: routine
 permalink: /routine/
 ---
 
@@ -11,17 +12,7 @@ permalink: /routine/
 </section>
 
 <div class="posts-grid">
-  {% assign found_posts = site.categories.routine | default: site.categories.Routine %}
-  {% if found_posts == blank %}
-    {% assign found_posts = "" | split: "" %}
-    {% for p in site.posts %}
-      {% if p.category == "routine" or p.categories contains "routine" %}
-        {% assign found_posts = found_posts | push: p %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-
-  {% for post in found_posts %}
+  {% for post in site.categories.routine %}
     <article class="post-card">
       <div class="post-card-content">
         <span class="post-card-category">Routine</span>
@@ -32,6 +23,6 @@ permalink: /routine/
       </div>
     </article>
   {% else %}
-    <p>Ancora nessun articolo in questa categoria.</p>
+    <p>Nessun post presente in questa categoria al momento.</p>
   {% endfor %}
 </div>
