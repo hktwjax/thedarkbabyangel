@@ -4,15 +4,14 @@ title: "Routine"
 permalink: /routine/
 ---
 
-{% assign cat_name = "routine" %}
-{% assign filtered_posts = site.posts | where_exp: "post", "post.categories contains cat_name" %}
+<body class="theme-routine">
 
 <section class="category-header">
   <h2>Routine</h2>
 </section>
 
 <div class="posts-grid">
-  {% for post in filtered_posts %}
+  {% for post in site.categories.routine %}
     <article class="post-card">
       <div class="post-card-content">
         <span class="post-card-category">Routine</span>
