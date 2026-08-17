@@ -1,10 +1,8 @@
 —--
-
 layout: post 
 title: “Il mio piccolo angolo di quiete"
 date: 2026-08-17
 category: Routine
-
 ---
 
 
