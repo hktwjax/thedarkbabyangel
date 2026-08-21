@@ -1,8 +1,9 @@
+---
 layout: post 
 title: “Il rituale del mio reset domestico"
 date: 2026-08-21
 category: routine 
-—-
+---
 
 Dopo un mese di assenza per le vacanze una delle cose più belle è ritornare nel proprio luogo sicuro, nella propria camera. Una cosa che faccio sempre è il mio rituale del reset, è un’intera giornata a curare e trasformare il mio piccolo rifugio in un luogo più pulito e accogliente. Questo richiede un grande lavoro di cura per se stessi e per il proprio luogo. 
 Dopo esserci svegliati con calma e dopo aver fatto colazione è il momento di iniziare questo lavoro insieme. 
