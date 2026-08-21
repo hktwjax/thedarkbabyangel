@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: “Il rituale del mio reset domestico"
+title: Il rituale del mio reset domestico 
 date: 2026-08-21
 category: routine 
 ---
