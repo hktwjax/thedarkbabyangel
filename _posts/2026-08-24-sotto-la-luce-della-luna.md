@@ -32,6 +32,8 @@ vogliamo più nella nostra vita e bruciarlo sulla fiamma di una candela nera. È
 
 In questa fase, chiamata di attrazione, possiamo eseguire rituali per ciò che vogliamo sia nella nostra vita. Ad esempio per attrarre un amore, denaro, fortuna, salute. Questo è il periodo che va dal giorno dopo luna nuova fino alla vigilia di luna piena, della durata di 15 giorni.
 
+
+
 Questo è un piccolo inizio per un lungo percorso.
 
 The Dark Baby Angel 🪽
