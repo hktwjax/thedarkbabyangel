@@ -44,8 +44,8 @@
   --glow-light: drop-shadow(0px 0px 14px rgba(173, 82, 94, 0.45));
 }
 
-/* Holidays: #6d7f5a */
-.theme-holidays { 
+/* Art History: #6d7f5a (oppure il colore che preferisci per l'arte) */
+.theme-art-history { 
   --accent-color: #6d7f5a; 
   --glow-light: drop-shadow(0px 0px 14px rgba(143, 168, 120, 0.45));
 }
@@ -244,7 +244,7 @@ a:hover {
    5. DECORAZIONI DI SFONDO
    ========================================= */
 
-.decor-home, .decor-recipes, .decor-witches, .decor-routine, .decor-tv-and-movies, .decor-holidays, .decor-diary {
+.decor-home, .decor-recipes, .decor-witches, .decor-routine, .decor-tv-and-movies, .decor-art-history, .decor-diary {
   display: none;
   position: fixed;
   pointer-events: none;
@@ -259,7 +259,7 @@ body.theme-recipes .decor-recipes, .theme-recipes .decor-recipes { display: bloc
 body.theme-witches .decor-witches, .theme-witches .decor-witches { display: block; }
 body.theme-routine .decor-routine, .theme-routine .decor-routine { display: block; }
 body.theme-tv-and-movies .decor-tv-and-movies, .theme-tv-and-movies .decor-tv-and-movies { display: block; }
-body.theme-holidays .decor-holidays, .theme-holidays .decor-holidays { display: block; }
+body.theme-art-history .decor-art-history, .theme-art-history .decor-art-history { display: block; }
 body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
 
 /* -----------------------------------------
@@ -414,10 +414,13 @@ body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
 }
 
 @media (max-width: 1100px) {
-  .decor-home, .decor-recipes, .decor-witches, .decor-routine, .decor-tv-and-movies, .decor-holidays, .decor-diary,
+  .decor-home, .decor-recipes, .decor-witches, .decor-routine, .decor-tv-and-movies, .decor-art-history, .decor-diary,
   .decor-margine1, .decor-margine2, .decor-margine3 {
     display: none !important;
   }
+  /* ... */
+}
+
 
   .posts-grid {
     grid-template-columns: repeat(2, 1fr);
