@@ -442,13 +442,6 @@ main, .posts-list, ul, ol, .post-card-content {
   text-align: left;
 }
 
-/* =========================================
-   CORRETTORE ALLINEAMENTO POST (A SINISTRA)
-   ========================================= */
-main, .posts-list, ul, ol, .post-card-content {
-  text-align: left;
-}
-
 /* Sistema gli elenchi puntati dei post se per caso si erano spostati */
 main ul {
   list-style-position: inside;
