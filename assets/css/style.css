@@ -368,6 +368,7 @@ body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
 }
 
 .decor-finestra {
+  position: fixed;
   bottom: 10px;
   right: 15px;
   width: 175px;
@@ -377,6 +378,7 @@ body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
   -webkit-mask: url('../images/finestra.png') no-repeat bottom right / contain;
   mask: url('../images/finestra.png') no-repeat bottom right / contain;
 }
+
 
 .decor-lettera2 {
   bottom: 25px;
