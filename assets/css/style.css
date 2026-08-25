@@ -434,3 +434,16 @@ body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
     grid-template-columns: 1fr;
   }
 }
+
+/* =========================================
+   CORRETTORE ALLINEAMENTO POST (A SINISTRA)
+   ========================================= */
+main, .posts-list, ul, ol, .post-card-content {
+  text-align: left;
+}
+
+/* Sistema gli elenchi puntati dei post se per caso si erano spostati */
+main ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
