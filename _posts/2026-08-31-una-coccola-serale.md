@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: “Una coccola serale”
+title: "Una coccola serale"
 date: 2026-08-31
 category: routine
 ---
