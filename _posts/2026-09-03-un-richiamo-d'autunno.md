@@ -11,7 +11,7 @@ Questa è una ricetta perfetta per tutte le stagioni che però in qualche modo r
 
 Porzione per una persona
 
-Ingredienti:
+*Ingredienti:*
 
 1 uovo 
 
@@ -28,7 +28,7 @@ Ingredienti:
 Vaniglia q.b.
 
 
-Procedimento:
+*Procedimento:*
 
 Far sciogliere il burro e farlo raffreddare. 
 Setacciare e unire tutte le polveri. Successivamente unire uova, latticello e burro fuso in un altro recipiente. Unire il composto di polveri a quello liquido poco alla volta.
