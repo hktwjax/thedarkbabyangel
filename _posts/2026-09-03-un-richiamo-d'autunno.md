@@ -29,6 +29,7 @@ Vaniglia q.b.
 
 
 Procedimento:
+
 Far sciogliere il burro e farlo raffreddare. 
 Setacciare e unire tutte le polveri. Successivamente unire uova, latticello e burro fuso in un altro recipiente. Unire il composto di polveri a quello liquido poco alla volta.
 Prendere una padella e mettere poco burro, cuocere i pancake a fuoco lento. Quando si formeranno delle bolle sulla superficie dell'impasto si puo girare e far cuocere l'altro lato.
