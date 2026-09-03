@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Un richiamo d’autunno"
-date: 2026-mm-gg
+date: 2026-09-03
 category: Recipes 
 ---
 
