@@ -2,7 +2,7 @@
 layout: post 
 title: "Un richiamo d’autunno"
 date: 2026-mm-gg
-category: recipes 
+category: Recipes 
 ---
 
 Questa è una ricetta perfetta per tutte le stagioni che però in qualche modo richiama l’autunno. Una delle mie preferite che faccio tutto l’anno! Perfetta sia come colazione che merenda. Per prendersi una coccola per sé stessi e da condividere con le persone care. 
