@@ -20,6 +20,7 @@ Un’altra cosa indispensabile è portare qualche medicinale. Non spaventarti, l
 Se sei una ragazza ti consiglio di portare delle cose per i capelli come mollette e codini. Portati sempre degli assorbenti per sicurezza, poi quando hai il tuo periodo ne porti altri se ti servono. 
 
 Ricorda che il kit d’emergenza non è solo per le ragazze ma anche per i ragazzi, ovviamente rendilo tuo e aggiungi o togli a seconda delle tue necessità. 
+
 Spero ti abbia aiutato e ti sia piaciuto.
 
 Un saluto dalla luna 
