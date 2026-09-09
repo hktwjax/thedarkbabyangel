@@ -8,7 +8,7 @@ category: diary
 Come inizia settembre si pensa al back to school/uni. Io, personalmente, penso all’autunno e ad halloween, che occupano gran parte dei miei pensieri (arriveranno idee per travestirmi e molto altro).
 Oggi vorrei parlarti di una cosa che non manca mai nella mia borsa o nel mio zaino, che porto con me sempre, che sia per uscire con amic* o per andare all’università. 
 
-##Il kit d’emergenza
+## Il kit d’emergenza
 
 Quando si passa tanto tempo fuori casa ci sono piccoli oggetti che possono essere indispensabili. Ovviamente ti racconterò cosa porto io, sperando che il mio kit ti ispiri a creare il tuo.
 Ci serve una pochette dove mettere tutto ciò che ci serve, io ne ho una piccola che posso mettere dappertutto e che non mi dà problemi! 
