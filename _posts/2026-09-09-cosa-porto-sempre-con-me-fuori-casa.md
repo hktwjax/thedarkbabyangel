@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: “Cosa porto sempre con me fuori casa"
+title: "Cosa porto sempre con me fuori casa"
 date: 2026-09-09
 category: diary
 ---
