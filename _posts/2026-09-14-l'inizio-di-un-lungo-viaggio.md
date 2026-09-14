@@ -1,4 +1,4 @@
-y---
+---
 layout: post 
 title: "L’inizio di un lungo viaggio"
 date: 2026-09-14
