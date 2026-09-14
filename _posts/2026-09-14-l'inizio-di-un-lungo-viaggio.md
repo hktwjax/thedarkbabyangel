@@ -22,8 +22,8 @@ Gli intellettuali vivevano un forte senso di insoddisfazione verso il presente c
 
 La fede, il sentimento e l’irrazionalità tornano a riaffiorare in mille forme differenti. 
 - Sul piano letterario, la cultura romantica predilige il romanzo storico e la poesia dei sentimenti soggettivi. 
--Sul piano musicale, le composizioni sono più passionali, intense e profondamente legate alla forza degli eventi naturali. 
--Nelle arti figurative, trovano spazio leggende ossianiche, suggestioni esotiche, cronache del tempo e semplici scene di vita quotidiana. La natura viene fortemente personificata e dialoga direttamente con lo stato d’animo dell’artista, riuscendo a suscitare emozioni potentissime, vestendo i panni di una madre affettuosa o di una matrigna severa. Le due strade su cui viaggia l’espressione artistica romantica sono senza dubbio la passione e il turbamento.
+- Sul piano musicale, le composizioni sono più passionali, intense e profondamente legate alla forza degli eventi naturali. 
+- Nelle arti figurative, trovano spazio leggende ossianiche, suggestioni esotiche, cronache del tempo e semplici scene di vita quotidiana. La natura viene fortemente personificata e dialoga direttamente con lo stato d’animo dell’artista, riuscendo a suscitare emozioni potentissime, vestendo i panni di una madre affettuosa o di una matrigna severa. Le due strade su cui viaggia l’espressione artistica romantica sono senza dubbio la passione e il turbamento.
 
 Un concetto cardine di questo periodo è il **Sublime**. Si tratta di un insieme misterioso e affascinante di sensazioni che ci travolgono di fronte agli spettacoli più grandiosi della natura.  Per la sensibilità romantica, il Sublime si pone all’estremo limite superiore della percezione del bello. Dove la perfezione, la grazia e l’armonia confinano con lo smarrimento della mente, incapace di percepire razionalmente sensazioni così intense e assolute, lì si affascina il Sublime che è nel contempo piacere e dolore.
 
