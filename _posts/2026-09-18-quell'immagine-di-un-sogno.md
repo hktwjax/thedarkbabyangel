@@ -9,6 +9,8 @@ Il quadro di cui vorrei parlarti oggi è uno dei miei preferiti.
 
 ## La cattedrale di Salisbury vista dai giardini del vescovo di John Constable 
 
+![Descrizione dell'immagine](../assets/images/Cattebrale-di-Salisbury.jpg)
+
 Prima di parlare dell’opera in sé vorrei parlarti dell’artista.
 
 John Constable nasce l’11 giugno 1776 a East Bergholt nel Suffolk nell’Inghilterra Sud-occidentale e si spegne a Londra il 31 marzo 1837. Suo padre era un mugnaio benestante, e il piccolo John trascorre i suoi primi anni nelle fattorie e delle campagne inglesi. È proprio così che nascono i soggetti che ritroveremo nei suoi dipinti, infatti era abituato a vedere i cieli sconfinati, i boschi frondosi, le marine rasserenanti e i mulini scroscianti d’acqua. Constable era attratto dalla natura e dal desiderio di dipingerla. 
