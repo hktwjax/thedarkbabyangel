@@ -9,7 +9,7 @@ Il quadro di cui vorrei parlarti oggi è uno dei miei preferiti.
 
 ## La cattedrale di Salisbury vista dai giardini del vescovo di John Constable 
 
-![Descrizione dell'immagine](../assets/images/Cattebrale-di-Salisbury.jpg)
+![Descrizione dell'immagine](/assets/images/Cattebrale-di-Salisbury.jpg)
 
 Prima di parlare dell’opera in sé vorrei parlarti dell’artista.
 
