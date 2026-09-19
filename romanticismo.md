@@ -4,7 +4,7 @@ title: "Romanticismo"
 permalink: /romanticismo/
 ---
 
-<body class="theme-art-history">
+<div class="theme-art-history">
 
 <section class="category-header">
   <h2>Romanticismo</h2>
@@ -26,6 +26,7 @@ permalink: /romanticismo/
   {% endfor %}
 </div>
 
-<!-- Decorazione in basso a destra per mantenere lo stile -->
+<!-- Decorazione in basso a destra (finestra) specifica di Art History -->
 <div class="decor-art-history decor-finestra"></div>
-</body>
+
+</div>
