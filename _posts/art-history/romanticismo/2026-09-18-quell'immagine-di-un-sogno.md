@@ -1,8 +1,9 @@
 ---
-layout: post 
-title: "Quell’immagine di un sogno"
+layout: post
+title: "Quell'immagine di un sogno"
 date: 2026-09-18
-category: art-history
+categories:[art-history, romanticismo]
+tags: [pittura, paesaggio, Inghilterra]
 ---
 
 Il quadro di cui vorrei parlarti oggi è uno dei miei preferiti.
