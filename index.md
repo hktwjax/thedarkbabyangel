@@ -8,12 +8,12 @@ title: "Home"
   
   <div class="home-announcement" style="text-align: center; margin: 15px auto; padding: 15px 10px;">
     <!-- Immagine decorativa superiore -->
-    <img src="{{ '/assets/images/divider1.PNG' | relative_url }}" alt="decorazione superiore" style="max-width: 80%; height: auto; display: block; margin: 0 auto 10px auto;">
+    <img src="{{ '/assets/images/divider4.PNG' | relative_url }}" alt="decorazione superiore" style="max-width: 80%; height: auto; display: block; margin: 0 auto 10px auto;">
     
     <p style="font-style: italic; font-size: 1.05em; margin: 10px 0;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
     
     <!-- Immagine decorativa inferiore -->
-    <img src="{{ '/assets/images/divider2.PNG' | relative_url }}" alt="decorazione inferiore" style="max-width: 80%; height: auto; display: block; margin: 10px auto 0 auto;">
+    <img src="{{ '/assets/images/divider3.PNG' | relative_url }}" alt="decorazione inferiore" style="max-width: 80%; height: auto; display: block; margin: 10px auto 0 auto;">
   </div>
 
   <div class="posts-grid">
