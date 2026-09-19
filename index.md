@@ -30,7 +30,7 @@ title: "Home"
         <!-- Informazioni sul post -->
         <div class="post-card-content">
           {% if post.categories %}
-            <span class="post-card-category">{{ post.categories }}</span>
+            <span class="post-card-category">{{ post.categories | join: ", " }}</span>
           {% endif %}
           <h3 class="post-card-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -43,5 +43,4 @@ title: "Home"
       <p>Nessun articolo pubblicato finora.</p>
     {% endfor %}
   </div>
-</section>
 </section>
