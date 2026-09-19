@@ -471,3 +471,8 @@ body.theme-art-history .site-header nav a {
 body:not(.theme-home) .site-header {
   border-bottom: none;
 }
+
+/* Rimuove la riga dell'header per le pagine con script dedicato */
+body.no-header-border .site-header {
+  border-bottom: none !important;
+}
