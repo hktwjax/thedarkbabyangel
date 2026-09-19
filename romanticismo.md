@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Romanticismo
+title: "Romanticismo"
 ---
 
 <h1>Articoli sul Romanticismo</h1>
+<p>Tutti gli articoli dedicati al periodo romantico.</p>
 
 <ul>
   {% for post in site.posts %}
