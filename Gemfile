@@ -13,6 +13,7 @@ gem "minima", "~> 2.5"
 
 source "https://rubygems.org"
 
+# Usiamo la gemma ufficiale di GitHub Pages che include già Jekyll e i plugin supportati
 gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
