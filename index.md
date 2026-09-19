@@ -4,10 +4,10 @@ title: "Home"
 ---
 
 <section class="latest-news-section">
-  <h2 class="section-title" style="font-size: 1.3em; font-weight: normal; font-style: normal; margin-bottom: 10px;">Latest News</h2>
+  <h2 class="section-title" style="font-size: 1.45em; font-weight: normal; font-style: normal; margin-bottom: 10px;">Latest News</h2>
   
   <div class="home-announcement" style="text-align: center; margin: 15px auto; padding: 10px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-    <p style="font-style: italic; font-size: 1.2em;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
+    <p style="font-style: italic; font-size: 1.05em;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
   </div>
 
   <div class="posts-grid">
