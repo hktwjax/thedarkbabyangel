@@ -7,13 +7,13 @@ title: "Home"
   <h2 class="section-title" style="font-size: 1.45em; font-weight: normal; font-style: normal; margin-bottom: 10px;">Latest News</h2>
   
   <div class="home-announcement" style="text-align: center; margin: 15px auto; padding: 15px 10px;">
-    <!-- Immagine decorativa superiore -->
-    <img src="{{ '/assets/images/divider4.PNG' | relative_url }}" alt="decorazione superiore" style="max-width: 80%; height: auto; display: block; margin: 0 auto 10px auto;">
+    <!-- Immagine decorativa superiore: più larga e resa bianca con il filtro -->
+    <img src="{{ '/assets/images/divider4.PNG' | relative_url }}" alt="decorazione superiore" style="width: 95%; max-width: 550px; height: auto; display: block; margin: 0 auto 10px auto; filter: brightness(0) invert(1);">
     
     <p style="font-style: italic; font-size: 1.05em; margin: 10px 0;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
     
-    <!-- Immagine decorativa inferiore -->
-    <img src="{{ '/assets/images/divider3.PNG' | relative_url }}" alt="decorazione inferiore" style="max-width: 80%; height: auto; display: block; margin: 10px auto 0 auto;">
+    <!-- Immagine decorativa inferiore: più larga e resa bianca con il filtro -->
+    <img src="{{ '/assets/images/divider3.PNG' | relative_url }}" alt="decorazione inferiore" style="width: 95%; max-width: 550px; height: auto; display: block; margin: 10px auto 0 auto; filter: brightness(0) invert(1);">
   </div>
 
   <div class="posts-grid">
