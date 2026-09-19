@@ -1,10 +1,8 @@
 ---
-
 layout: post 
 title: "Il sapore della calma"
 date: 2026-08-14
 category: Recipes 
-
 ---
 
 Immagina di stare in cucina in un qualunque pomeriggio autunnale, con le luci soffuse, della musica e una bella tazza di tè caldo. Sei tornat* da poco da scuola, dall’università, dal lavoro o semplicemente è stata una giornata stancante. Vuoi solo riposarti, qual è il miglior modo se non farsi una bella merenda o prepararsi una cena diversa dal solito? 
