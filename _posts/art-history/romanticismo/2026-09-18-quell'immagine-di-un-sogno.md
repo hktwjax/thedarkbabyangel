@@ -2,7 +2,7 @@
 layout: post
 title: "Quell'immagine di un sogno"
 date: 2026-09-18
-categories:[art-history, romanticismo]
+categories: [art-history, romanticismo]
 tags: [pittura, paesaggio, Inghilterra]
 ---
 
