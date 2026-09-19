@@ -450,3 +450,7 @@ main ul {
   padding-left: 0;
 }
 
+/* Correzione visibilità decorazione Art History */
+.theme-art-history .decor-art-history {
+  display: block !important;
+}
