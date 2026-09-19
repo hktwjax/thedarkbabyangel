@@ -2,7 +2,7 @@
 layout: post
 title: "Quell'immagine di un sogno"
 date: 2026-09-18
-category: art-history
+category: [art-history, romanticismo]
 ---
 
 Il quadro di cui vorrei parlarti oggi è uno dei miei preferiti.
