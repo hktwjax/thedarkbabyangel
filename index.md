@@ -7,13 +7,13 @@ title: "Home"
   <h2 class="section-title" style="font-size: 1.45em; font-weight: normal; font-style: normal; margin-bottom: 10px;">Latest News</h2>
   
   <div class="home-announcement" style="text-align: center; margin: 15px auto; padding: 15px 10px;">
-    <!-- Immagine superiore più lunga e leggermente più morbida (opacità 0.85) -->
-    <img src="{{ '/assets/images/divider4.PNG' | relative_url }}" alt="decorazione superiore" style="width: 100%; max-width: 650px; height: auto; display: block; margin: 0 auto 10px auto; filter: brightness(0) invert(1); opacity: 0.85;">
+    <!-- Immagine superiore: divider5.PNG -->
+    <img src="{{ '/assets/images/divider5.PNG' | relative_url }}" alt="decorazione superiore" style="width: 100%; max-width: 650px; height: auto; display: block; margin: 0 auto 10px auto; filter: brightness(0) invert(1); opacity: 0.85;">
     
     <p style="font-style: italic; font-size: 1.05em; margin: 10px 0;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
     
-    <!-- Immagine inferiore più lunga e leggermente più morbida (opacità 0.85) -->
-    <img src="{{ '/assets/images/divider3.PNG' | relative_url }}" alt="decorazione inferiore" style="width: 100%; max-width: 650px; height: auto; display: block; margin: 10px auto 0 auto; filter: brightness(0) invert(1); opacity: 0.85;">
+    <!-- Immagine inferiore: divider6.PNG -->
+    <img src="{{ '/assets/images/divider6.PNG' | relative_url }}" alt="decorazione inferiore" style="width: 100%; max-width: 650px; height: auto; display: block; margin: 10px auto 0 auto; filter: brightness(0) invert(1); opacity: 0.85;">
   </div>
 
   <div class="posts-grid">
@@ -29,8 +29,8 @@ title: "Home"
 
         <!-- Informazioni sul post -->
         <div class="post-card-content">
-          {% if post.category %}
-            <span class="post-card-category">{{ post.category }}</span>
+          {% if post.categories %}
+            <span class="post-card-category">{{ post.categories }}</span>
           {% endif %}
           <h3 class="post-card-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -43,4 +43,5 @@ title: "Home"
       <p>Nessun articolo pubblicato finora.</p>
     {% endfor %}
   </div>
+</section>
 </section>
