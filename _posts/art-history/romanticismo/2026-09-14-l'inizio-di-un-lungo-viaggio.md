@@ -2,7 +2,8 @@
 layout: post 
 title: "L’inizio di un lungo viaggio"
 date: 2026-09-14
-category: art-history
+category: [art-history, romanticismo]
+tags: [pittura, paesaggio, Inghilterra]
 ---
 
 Camminare per le sale di un museo ed essere circondat* da opere d’arte provenienti da epoche e posti diversi dal tuo è un’esperienza unica. Ognuno ha una reazione diversa guardando un dipinto o una scultura ma la base è la stessa. In questo spazio condividerò con te diverse opere e parlerò del loro lato romantico, gotico, storico e artistico. Magari scoprirai qualcosa di nuovo o rispolvererai ricordi custoditi nel cuore.
