@@ -466,3 +466,8 @@ body.theme-art-history .site-header nav a {
   --accent-color: #6d7f5a;
   --glow-light: drop-shadow(0px 0px 14px rgba(143, 168, 120, 0.45));
 }
+
+/* Rimuove la linea di separazione sotto i post in tutte le pagine tranne la home */
+body:not(.theme-home) .site-header {
+  border-bottom: none;
+}
