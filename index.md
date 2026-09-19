@@ -6,23 +6,20 @@ title: "Home"
 <section class="latest-news-section">
   <h2 class="section-title">Latest News</h2>
   
-  <div class="home-announcement" style="text-align: center; margin: 30px auto; padding: 20px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-  <p style="font-style: italic; font-size: 1.1em;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
-</div>
+  <div class="home-announcement" style="text-align: center; margin: 15px auto; padding: 10px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+    <p style="font-style: italic; font-size: 0.95em;">🕯️ Ci sarà un nuovo post una volta a settimana e qualche sorpresa extra! 🕯️</p>
+  </div>
 
   <div class="posts-grid">
     {% for post in site.posts %}
       <article class="post-card">
         
-        <!-- Foto principale del post -->
-        <a href="{{ post.url | relative_url }}" class="post-card-image-wrapper">
-          {% if post.image %}
+        <!-- Mostra l'immagine del post solo se esiste -->
+        {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="post-card-image-wrapper">
             <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-image">
-          {% else %}
-            <!-- Placeholder scuro se il post non ha un'immagine -->
-            <div class="post-card-placeholder"></div>
-          {% endif %}
-        </a>
+          </a>
+        {% endif %}
 
         <!-- Informazioni sul post -->
         <div class="post-card-content">
