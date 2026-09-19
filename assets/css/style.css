@@ -459,3 +459,10 @@ main ul {
 .theme-art-history .decor-art-history {
   display: block !important;
 }
+
+/* Propaga il colore della categoria al titolo principale e al menu */
+body.theme-art-history .site-header h1 a,
+body.theme-art-history .site-header nav a {
+  --accent-color: #6d7f5a;
+  --glow-light: drop-shadow(0px 0px 14px rgba(143, 168, 120, 0.45));
+}
