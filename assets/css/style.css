@@ -44,7 +44,7 @@
   --glow-light: drop-shadow(0px 0px 14px rgba(173, 82, 94, 0.45));
 }
 
-/* Art History */
+/* Art History (Verde oliva/terra) */
 .theme-art-history { 
   --accent-color: #6d7f5a; 
   --glow-light: drop-shadow(0px 0px 14px rgba(143, 168, 120, 0.45));
@@ -448,6 +448,11 @@ main, .posts-list, ul, ol, .post-card-content {
 main ul {
   list-style-position: inside;
   padding-left: 0;
+}
+
+/* Correzione visibilità decorazione Art History */
+.theme-art-history .decor-art-history {
+  display: block !important;
 }
 
 /* Correzione visibilità decorazione Art History */
