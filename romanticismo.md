@@ -5,7 +5,7 @@ permalink: /romanticismo/
 ---
 
 <script>
-  document.body.classList.add('theme-art-history');
+  document.body.classList.add('theme-art-history', 'no-header-border');
 </script>
 
 <section class="category-header">
