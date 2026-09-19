@@ -1,17 +1,31 @@
 ---
 layout: default
 title: "Romanticismo"
+permalink: /romanticismo/
 ---
 
-<h1>Articoli sul Romanticismo</h1>
-<p>Tutti gli articoli dedicati al periodo romantico.</p>
+<body class="theme-art-history">
 
-<ul>
+<section class="category-header">
+  <h2>Romanticismo</h2>
+</section>
+
+<div class="posts-grid">
   {% for post in site.posts %}
     {% if post.categories contains "romanticismo" %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%d/%m/%Y" }}
-      </li>
+      <article class="post-card">
+        <div class="post-card-content">
+          <span class="post-card-category">Romanticismo</span>
+          <h3 class="post-card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          <span class="post-card-date">{{ post.date | date: "%d/%m/%Y" }}</span>
+        </div>
+      </article>
     {% endif %}
   {% endfor %}
-</ul>
+</div>
+
+<!-- Decorazione in basso a destra per mantenere lo stile -->
+<div class="decor-art-history decor-finestra"></div>
+</body>
