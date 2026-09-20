@@ -25,8 +25,8 @@ La cattedrale di Salisbury è un olio su tela del 1823, commissionato dall’arc
 Questo dipinto rappresenta il trionfo del naturalismo pittorico ed è caratterizzato da variazioni tonali e chiaroscuri. La chiara e imponente mole della cattedrale viene incorniciata dagli alberi in primo piano che formano quasi un’arcata gotica e vengono utilizzati come elemento teatrale. La cattedrale è luminosa, limpida e maestosa. Essendo un elemento architettonico è quindi immobile, e questo permetteva all’artista di prendersi tutto il tempo necessario per dipingerlo. Al contrario, il cielo e il fogliame sono caratterizzati da pennellate rapide e vibranti, pensate per cogliere l’attimo. La luminosità degli alberi è ottenuta giustapponendo diverse tonalità di verde (cioè accostando i colori l'uno accanto all'altro senza mescolarli o sfumarli). In questo modo, il colore viene picchiettato punto su punto per lasciare i toni puri e brillanti.
 E il cielo? Troviamo molte nuvole, una vera e propria passione per Constable, che amava studiarle e riusciva a renderle profondamente poetiche.
 
-Spero che questo tuffo nella campagna inglese e tra le nuvole di Constable ti abbia regalato un momento di pace. Mettiti comoda, goditi gli ultimi sorsi del tuo tè. Custodisci questa bellezza e prenditi cura di te, ci vediamo al prossimo angolo d'arte.
+Spero che questo tuffo nella campagna inglese e tra le nuvole di Constable ti abbia regalato un momento di pace. Mettiti comod* e goditi gli ultimi sorsi del tuo tè. Custodisci questa bellezza e prenditi cura di te, ci vediamo al prossimo angolo d'arte.
 
-A presto
+Tra i colori che scaldano il cuore
 
 The Dark Baby Angel 🪽
