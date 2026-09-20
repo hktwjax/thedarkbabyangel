@@ -35,6 +35,6 @@ Setacciare e unire tutte le polveri. Successivamente unire uova, latticello e bu
 Prendere una padella e mettere poco burro, cuocere i pancake a fuoco lento. Quando si formeranno delle bolle sulla superficie dell'impasto si puo girare e far cuocere l'altro lato.
 Personalmente io metto le gocce di cioccolato all’interno dei pancakes ma tu puoi farlo come più preferisci. 
 
-Buona ricetta!
+Un saluto dalla mia cucina profumata 
 
 The Dark Baby Angel 🪽
