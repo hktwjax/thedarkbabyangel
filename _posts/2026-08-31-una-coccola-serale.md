@@ -17,6 +17,6 @@ Dopo la doccia (senza bagnare i capelli) mi asciugo bene e mi metto un pigiama c
 Dopo la skincare passo alla body care, io ho la pelle abbastanza secca soprattutto sui gomiti, le braccia e sulle ginocchia quindi mi metto la crema tutti i giorni in queste zone. Sul resto del corpo di solito la metto due giorni sì e uno no anche se vado molto ad istinto, se non ti va di fare una cosa non la fare! In questo periodo o uso la crema di Levocrema alla ciliegia o quella di Vaseline Healthy Bright Gluta-Hya Dewy Radiance. 
 Tutto ciò può essere accompagnato da una o tante candele profumate, musica rilassante e luci soffuse. Di solito queste cose le faccio prima di cena ma tu le puoi fare quando ti è più comodo. 
 
-Buona night routine! 
+Con una dolce pausa e un caldo abbraccio 
 
 The Dark Baby Angel 🪽
