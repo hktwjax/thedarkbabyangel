@@ -9,9 +9,8 @@ Una delle mie serie preferite, che consiglio a tutti di vedere almeno una volta 
 
 Parla di una madre e una figlia …
 
-Penso che tu abbia già capito di che serie sto parlando. 
+Penso che tu abbia già capito di che serie sto parlando.
 
-Esatto proprio 
 ## Gilmore Girls
 
 Questa serie è amata da tutti e se non l’hai già vista ti consiglio di farlo. 
