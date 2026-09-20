@@ -13,6 +13,6 @@ Non dimenticarti che qui tutti possono prendersi i propri tempi.
 
 Sono felice di condividere le mie ricette con te e spero ti piacciano.
 
-Un saluto dalla mia cucina profumata 
+Buone ricette e calde serate 
 
 The Dark Baby Angel 🪽
