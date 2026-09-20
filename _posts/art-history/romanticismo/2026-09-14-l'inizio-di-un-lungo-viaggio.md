@@ -38,6 +38,6 @@ Il modo di vedere e di sentire la natura, ad esempio, rende perfettamente l'idea
 
 Il nostro viaggio è appena iniziato, e non vedo l'ora di esplorare insieme a te le meraviglie che ci aspettano dietro la prossima pagina. 
 
-Un saluto dalla luna
+Che la bellezza ti sorprenda tra le pagine del tempo 
 
 The Dark Baby Angel 🪽
