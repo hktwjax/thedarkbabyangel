@@ -12,7 +12,7 @@ Parla di una madre e una figlia …
 Penso che tu abbia già capito di che serie sto parlando. 
 Esatto!
 
-## Gilmore Girls. 
+## Gilmore Girls
 
 Questa serie è amata da tutti e se non l’hai già vista ti consiglio di farlo. 
 Io personalmente l’ho vista due volte e sinceramente ci sarà una terza a breve. 
