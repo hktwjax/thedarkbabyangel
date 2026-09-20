@@ -11,11 +11,7 @@ Tra queste pagine troverai un po' di tutto ciò che amo, riflessioni intime, pic
 
 Non so dove ci porterà questo spazio, ma sono felice che tu sia qui proprio ora, all'inizio di tutto. Spero che questo blog possa diventare anche per te un piccolo rifugio dove tornare ogni volta che ne avrai bisogno.
 
-
-
-Benvenut* nel mio rifugio. 
-
-
+Benvenut* nel mio piccolo rifugio. 
 
 The Dark Baby Angel 🪽
 
