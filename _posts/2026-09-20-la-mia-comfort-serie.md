@@ -2,7 +2,7 @@
 layout: post 
 title: "La mia comfort serie"
 date: 2026-09-20
-category: tv-and-movies
+category: tv-&-movies
 ---
 
 Una delle mie serie preferite che consiglio a tutti di vedere una volta nella vita ed è anche il periodo perfetto per vederla! 
