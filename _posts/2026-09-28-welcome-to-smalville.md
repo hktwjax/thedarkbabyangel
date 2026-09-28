@@ -2,7 +2,7 @@
 layout: post 
 title: "Welcome to Smallville"
 date: 2026-09-28
-category: tv and movie
+category: tv-and-movie
 ---
 
 Quando penso a questa serie mi vengono subito in mente Clark Kent, Chloe Sullivan e Oliver Queen. 
