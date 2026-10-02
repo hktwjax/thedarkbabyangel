@@ -259,13 +259,13 @@ a:hover {
   transition: opacity 0.3s ease, width 0.3s ease, height 0.3s ease;
 }
 
-/* Attivazione visibilità decorazioni di categoria */
+/* Attivazione visibilità decorazioni di categoria (SOLO LA FINESTRA PER ART HISTORY, ECC.) */
 body.theme-home .decor-home, .theme-home .decor-home { display: block; }
 body.theme-recipes .decor-recipes, .theme-recipes .decor-recipes { display: block; }
 body.theme-witches .decor-witches, .theme-witches .decor-witches { display: block; }
 body.theme-routine .decor-routine, .theme-routine .decor-routine { display: block; }
 body.theme-tv-and-movies .decor-tv-and-movies, .theme-tv-and-movies .decor-tv-and-movies { display: block; }
-body.theme-art-history .decor-art-history, .theme-art-history .decor-art-history { display: block; }
+body.theme-art-history .decor-art-history, .theme-art-history .decor-art-history { display: block !important; }
 body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
 
 /* -----------------------------------------
@@ -318,17 +318,6 @@ body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
    ELEMENTI GRAFICI SPECIFICI DI CATEGORIA (IN BASSO A DESTRA)
    ----------------------------------------- */
 
-.decor-luna {
-  bottom: 0;
-  right: 0;
-  width: 220px;
-  height: 280px;
-  background-color: var(--accent-color);
-  transition: background-color 0.4s ease;
-  -webkit-mask: url('../images/luna.png') no-repeat bottom right / contain;
-  mask: url('../images/luna.png') no-repeat bottom right / contain;
-}
-
 .decor-libri {
   bottom: 0;
   right: 0;
@@ -374,7 +363,6 @@ body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
 }
 
 .decor-finestra {
-  position: fixed;
   bottom: 10px;
   right: 15px;
   width: 175px;
