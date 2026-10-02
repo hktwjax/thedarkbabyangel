@@ -259,14 +259,14 @@ a:hover {
   transition: opacity 0.3s ease, width 0.3s ease, height 0.3s ease;
 }
 
-/* Attivazione visibilità decorazioni di categoria */
-body.theme-home .decor-home, .theme-home .decor-home { display: block; }
-body.theme-recipes .decor-recipes, .theme-recipes .decor-recipes { display: block; }
-body.theme-witches .decor-witches, .theme-witches .decor-witches { display: block; }
-body.theme-routine .decor-routine, .theme-routine .decor-routine { display: block; }
-body.theme-tv-and-movies .decor-tv-and-movies, .theme-tv-and-movies .decor-tv-and-movies { display: block; }
-body.theme-art-history .decor-art-history, .theme-art-history .decor-art-history { display: block !important; }
-body.theme-diary .decor-diary, .theme-diary .decor-diary { display: block; }
+/* Attivazione mirata della singola decorazione in base alla classe del body */
+body.theme-home .decor-home { display: block; }
+body.theme-recipes .decor-recipes { display: block; }
+body.theme-witches .decor-witches { display: block; }
+body.theme-routine .decor-routine { display: block; }
+body.theme-tv-and-movies .decor-tv-and-movies { display: block; }
+body.theme-art-history .decor-art-history { display: block !important; }
+body.theme-diary .decor-diary { display: block; }
 
 /* -----------------------------------------
    CORNER MARGINS (Bianco Puro Celestiale #ffffff)
@@ -443,20 +443,9 @@ main, .posts-list, ul, ol, .post-card-content {
   text-align: left;
 }
 
-/* Sistema gli elenchi puntati dei post se per caso si erano spostati */
 main ul {
   list-style-position: inside;
   padding-left: 0;
-}
-
-/* Correzione visibilità decorazione Art History */
-.theme-art-history .decor-art-history {
-  display: block !important;
-}
-
-/* Correzione visibilità decorazione Art History */
-.theme-art-history .decor-art-history {
-  display: block !important;
 }
 
 /* Propaga il colore della categoria al titolo principale e al menu */
@@ -471,7 +460,6 @@ body:not(.theme-home) .site-header {
   border-bottom: none;
 }
 
-/* Rimuove la riga dell'header per le pagine con script dedicato */
 body.no-header-border .site-header {
   border-bottom: none !important;
 }
