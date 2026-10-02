@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+body_class: "theme-home decor-home"
 ---
 
 <section class="latest-news-section">
