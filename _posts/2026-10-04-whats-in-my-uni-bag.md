@@ -7,6 +7,8 @@ category: diary
 
 ### Edizione università/scuola
 
+Probabilmente avrai già iniziato che sia l'università o la scuola. A me inizierà tra poco quindi qui sotto ci sta tutto quello che mi fa sentire sicur* fuori casa.
+
 Io ho sempre usato lo zaino, lo trovo più comodo e capiente. Per quanto io ami le borse, ho provato ad usarla per l’università ma non mi trovo.
 Il mio zaino mi accompagna tutta la giornata, da quando scendo di casa fino a quando ritorno. Il tragitto che faccio è abbastanza lungo e comprende la metro. 
 Lo zaino che uso l’ho preso su Amazon, e per me la cosa più importante è che sia impermeabile e ovviamente da personalizzare. 
