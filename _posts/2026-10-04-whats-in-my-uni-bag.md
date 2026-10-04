@@ -5,7 +5,7 @@ date: 2026-10-04
 category: diary
 ---
 
-##Edizione università/scuola
+## Edizione università/scuola
 
 Io ho sempre usato lo zaino, lo trovo più comodo e capiente. Per quanto io ami le borse, ho provato ad usarla per l’università ma non mi trovo.
 Il mio zaino mi accompagna tutta la giornata, da quando scendo di casa fino a quando ritorno. Il tragitto che faccio è abbastanza lungo e comprende la metro. 
