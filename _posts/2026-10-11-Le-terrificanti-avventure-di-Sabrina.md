@@ -6,7 +6,9 @@ category: tv-and-movies
 ---
 
 Se vuoi una serie dark ma simpatica questa è perfetta! 
+
 Io infatti l’avevo già vista in passato e mi era venuta voglia di fare un bel rewatch.
+
 È una serie interessante perché unisce fatti religiosi e storici al tema oscuro della serie. Sabrina Spellman è la protagonista e la serie parla della sua vita da mezza strega e tutte le sfide che dovrà affrontare. Affianco a lei ci sono sempre le sue ziette Hilda e Zelda e suo cugino Ambrose, ovviamente anche i suoi amici umani e stregoni! 
 La cittadina Greendale sa essere sia molto autunnale e accogliente che fredda. Ho apprezzato molto che nel mondo di Sabrina si parli anche di Riverdale e viceversa. 
 A me piace molto la tematica delle streghe però preferisco vederle come figlie della natura e non come figlie del Signore Oscuro (Lucifero) che vengono descritte nella serie. Anche se ad un certo punto della serie la congrega di Sabrina inizierà a non pregare più il Signore Oscuro ma Ecate.
