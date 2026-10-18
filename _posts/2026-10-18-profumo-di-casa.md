@@ -31,7 +31,7 @@ Lavorare il composto e stenderlo con della farina, metterlo in un ruoto ricopert
 Creare le strisce con l’impatto rimanente e metterle sopra la crostata (se ti va puoi spennellare le strisce d’impasto con della panna fresca liquida). Cuocere a forno preriscaldato, modalità statica a 160 gradi per 40 minuti. 
 Lasciar raffreddare e se ti va facci una spolverata di zucchero a velo. 
 
-Metterò un altra ricetta dove usare i tre albumi per non buttarli. 
+Metterò un altra ricetta dove usare i tre albumi per non buttarli!
 
 Tra ricette e ricordi
 
