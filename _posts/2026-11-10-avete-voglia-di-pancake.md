@@ -9,7 +9,7 @@ Quando voglio catapultarmi in Gilmore Girls preparo questi deliziosi pancake. È
 
 ## Luke’s Pancake 
 
-*Ingredienti per l’impasto:*
+**Ingredienti per l’impasto:**
 
 (Ricetta per due persone)
 
@@ -33,7 +33,7 @@ Quando voglio catapultarmi in Gilmore Girls preparo questi deliziosi pancake. È
 
 Un pizzico di sale 
 
-*Ingredienti per il burro alla cannella:*
+**Ingredienti per il burro alla cannella:**
 
 60 g di burro
 
@@ -43,7 +43,7 @@ Cannella (a vostro gusto)
 
 Estratto di vaniglia q.b. 
 
-*Procedimento:*
+**Procedimento:**
  
 Per i pancake 
 In una ciotola mescola il latte, le uova e lo zucchero di canna. Aggiungi la polpa di zucca precedentemente cotta e schiacciata con una forchetta. In un altro contenitore, setaccia la farina, il lievito per dolci e il bicarbonato. Incorpora gradualmente le polveri setacciate, poi unisci all’impasto la noce mascara, la cannella e un pizzico di sale. Ungi leggermente una padella con un po’ di burro e inizia a cuocere a fuoco basso i pancake.
