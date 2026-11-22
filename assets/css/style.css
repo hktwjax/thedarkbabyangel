@@ -396,7 +396,7 @@ body.theme-diary .decor-diary { display: block; }
 }
 
 /* =========================================
-   6. RESPONSIVE / GESTIONE SOVRAPPOSIZIONI
+6. RESPONSIVE / GESTIONE SOVRAPPOSIZIONI
    ========================================= */
 
 @media (max-width: 1400px) {
@@ -421,8 +421,10 @@ body.theme-diary .decor-diary { display: block; }
 
 @media (max-width: 1100px) {
   .decor-home, .decor-recipes, .decor-witches, .decor-routine, .decor-tv-and-movies, .decor-art-history, .decor-diary,
+  .decor-finestra,
   .decor-margine1, .decor-margine2, .decor-margine3 {
     display: none !important;
+    visibility: hidden !important;
   }
 
   .posts-grid {
@@ -431,6 +433,12 @@ body.theme-diary .decor-diary { display: block; }
 }
 
 @media (max-width: 768px) {
+  .decor-art-history,
+  .decor-finestra {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
   .posts-grid {
     grid-template-columns: 1fr;
   }
