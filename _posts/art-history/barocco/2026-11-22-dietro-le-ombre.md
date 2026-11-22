@@ -18,3 +18,7 @@ Questo linguaggio è molto più scenografico e dinamico, fantastico e meraviglio
 Nasce a Milano nel 1571 da una famiglia originaria di Caravaggio, un piccolo centro agricolo della Bassa Bergamasca. La sua prima formazione è legata all’ambiente lombardo e molto probabilmente ha avuto contatti anche con il colorismo veneto. Caravaggio ha una forte sensibilità per le luci e per le ombre che diventa inconfondibile nella sua pittura. 
 Lui è un uomo violento e irrequieto, dal 1592 si trasferisce a Roma dove conosce il cardinale Francesco Maria Del Monte, ambasciatore del granduca di Toscana a Roma. Essendo una persona molto ribelle fu coinvolto in risse e loschi affari. 
 Nel 1606 ebbe il suo litigio più violento e uccide uno degli avversari. Dopo la sua condanna a morte inizia la sua avventurosa e tragica fuga da Roma. Le sue tappe furono varie. La prima la fece a Napoli, a seguire Malta, Siracusa e Porto Ercole dove muore nel 1610 a causa della malaria.
+
+Che la luce possa illuminarti sempre 
+
+The Dark Baby Angel 🪽
